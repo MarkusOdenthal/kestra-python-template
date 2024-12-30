@@ -1,15 +1,10 @@
 [project]
-name = "socialmedia-agent"
+name = "kestra-python-template"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "kestra>=0.20.0",
-    "logfire>=2.11.0",
-    "modal>=0.70.1",
-    "pydantic-ai>=0.0.15",
     "python-dotenv>=1.0.1",
-    "requests>=2.32.3",
-    "slack-sdk>=3.34.0",
 ]

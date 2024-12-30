@@ -1,6 +1,6 @@
-# Social Media Agent
+# Kestra Python Template
 
-A Python-based social media agent using Kestra for workflow automation.
+A Python-based template for Kestra workflows.
 
 ## Prerequisites
 
