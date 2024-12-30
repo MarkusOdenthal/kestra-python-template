@@ -1,0 +1,11 @@
+# The project uses
+- uv for dependency and environment management
+- Python 3.13
+
+# Project Structure
+
+- `docker/` - Docker configuration files
+- `src/` - Main application code
+- `kestra_workflows/` - Kestra workflow definitions
+- `.env` - Environment configuration (create from .env.example)
+- `pyproject.toml` - Python project dependencies and metadata
